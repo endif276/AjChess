@@ -2,7 +2,9 @@
 
 Travail 3 : AjChess
 
-GONM27069507_GONFALONE Maxence
+Contributeurs:
+
+endif276 : GONM27069507_GONFALONE Maxence
 
 Les aspects appartiennent au package ca.uqac.inf957.chess.aspect
 

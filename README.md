@@ -2,7 +2,7 @@
 
 Travail 3 : AjChess
 
-Contributeurs:
+Etudiant:
 
 endif276 : GONM27069507_GONFALONE Maxence
 
